@@ -3,7 +3,7 @@
   "bbox": [ -122, 37, -126, 41 ],
   "geometry": {
     "type": "Point",
-    "coordinates": [ -122.289127, 37.828334 ]
+    "coordinates": [ -122.289127, 37.828334, 10 ]
   },
   "properties": {
     "name": "webster st",
