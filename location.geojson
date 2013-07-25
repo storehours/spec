@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "bbox": [ -75, 38, -71, 42 ],
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.66086495, 40.99974046 ]
+  },
+  "properties": {
+    "name": "webster st",
+    "storeid": "2767",
+    "address": {
+      "areas": [ "CA", "Alameda", "1900 Webster St." ],
+      "postal": "94501",
+      "country": "US"
+    },
+    "phone": "8005551212",
+    "hours": "M-SA 7AM-10PM\nSu 8AM-10PM",
+    "dependent": "/target/west-oakland",
+    "holiday": {
+      "Christmas Eve": {
+        "period": "2014-01-24T00:00:00.000-0800/1D",
+        "hours": "5AM-6PM"
+      },
+      "Christmas Day": {
+        "period": "2014-01-25T00:00:00.000-0800/1D",
+        "hours": "Closed"
+      }
+    },
+    "departments": [
+      {
+        "name": "Pharmacy",
+        "phone": "8005551313"
+      },
+      {
+        "name": "Pharmacy Drive Thru",
+        "dependent": false,
+        "hours": "M-TH 7AM-3AM\nF,S 7AM-4AM\nSu 8AM-3AM"
+      }
+    ]
+  }
+}
