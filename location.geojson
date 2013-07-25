@@ -1,9 +1,9 @@
 {
   "type": "Feature",
-  "bbox": [ -75, 38, -71, 42 ],
+  "bbox": [ -118, 33, -126, 41 ],
   "geometry": {
     "type": "Point",
-    "coordinates": [ -73.66086495, 40.99974046 ]
+    "coordinates": [ -122.289127, 37.828334 ]
   },
   "properties": {
     "name": "webster st",
