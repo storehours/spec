@@ -1,6 +1,6 @@
 {
   "type": "Feature",
-  "bbox": [ -118, 33, -126, 41 ],
+  "bbox": [ -122, 37, -126, 41 ],
   "geometry": {
     "type": "Point",
     "coordinates": [ -122.289127, 37.828334 ]
