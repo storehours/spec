@@ -15,6 +15,7 @@
     },
     "phone": "8005551212",
     "hours": "M-SA 7AM-10PM\nSu 8AM-10PM",
+    "website": "http://www.target.com/store-locator/store-details?storeNumber=2767",
     "dependent": "/target/west-oakland",
     "holiday": {
       "Christmas Eve": {
